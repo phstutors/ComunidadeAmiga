@@ -6,11 +6,11 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 * SSH
 ```
-git clone git@github.com:phstutors/HubCity.git
+git clone git@github.com:phstutors/ComunidadeAmiga.git
 ```
 * HTTPS
 ```
-git clone https://github.com/phstutors/HubCity.git
+git clone https://github.com/phstutors/ComunidadeAmiga.git
 ```
 #📋 Pré-requisitos
 
