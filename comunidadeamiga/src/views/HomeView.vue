@@ -11,7 +11,9 @@ import { RouterLink, RouterView } from 'vue-router'
           faça seu pedido de doações..
         </p>
         <div class="mt-4">
-          <button class="btn btn-primary btn-lg mr-3">Cadastre-se</button>
+
+          <RouterLink to="/cadastro" class="btn btn-primary btn-lg mr-3">Cadastre-se</RouterLink>
+          
           <a href="#" class="btn btn-link">Login</a>
         </div>
       </div>
