@@ -13,8 +13,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <div class="mt-4">
 
           <RouterLink to="/cadastro" class="btn btn-primary btn-lg mr-3">Cadastre-se</RouterLink>
-          
-          <a href="#" class="btn btn-link">Login</a>
+          <RouterLink to="/login" class="btn btn-link">Login</RouterLink>
         </div>
       </div>
       <div class="col-md-6 text-center">
