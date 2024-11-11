@@ -38,11 +38,7 @@ Depois de ter instalado as dependencias do projeto vamos executar o seguinte com
 ```sh
 npm run dev
 ```
-Se tudo ocorreu bem ira mostrar um console com algumas intruções e um qrcode do expo.
 
-Se for de sua preferencia podera ler o qrcode e usar por meio do expo go instalado direto de sua loja [APPLE STORE](https://itunes.apple.com/app/apple-store/id982107779) ou [PLAY STORE](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
-
-Ou se ja tiver tudo configurado podemos executar por meio do emulado android ou IOS, para executar por meio do emulado pressione A no teclado ao iniciar o servidor.
 
 ## 🛠️ Construído com:
 
