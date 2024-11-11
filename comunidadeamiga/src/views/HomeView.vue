@@ -17,7 +17,7 @@ import { RouterLink, RouterView } from 'vue-router'
         </div>
       </div>
       <div class="col-md-6 text-center">
-        <img src="https://s3-alpha-sig.figma.com/img/5a17/67cc/520d83ae6950a8af0dec9c45f8b47983?Expires=1731283200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WS~fpme~p~oLL~H19kpnLHb7Pb1~I02bq4VtQaKJ96bNYabFIAVyNm7RaNU6g-42SHFPziPoSz-Ceq95prdL5JTp0Jogt1IPyUHiXbFBzxHPpSx~tBLLQH5OPboEHOZ6NCYQSEcAZ9KuMeQ4MZ47oVs--Qy8to6txgRW07h1VrKB-S6rYJ8obJtivgtzKT3ORLUwdtEZMuF68Mj0lWjBfvsbEbFU6PAc9qE~ATv3~hzXMgYr~ZbCF9fXtXNEr7VS35IsajWBGmP6G2dgevpZZEzfQZMqcet7pOQI5gQ-qg2HpKzJJ1Ch4uQKBnosgc1YtWq8fQMVV7txRhaaP4q9OA__" alt="Imagem de Boas-vindas" class="img-fluid">
+        <img src="https://i.imgur.com/lIzcNcs.png" alt="Imagem de Boas-vindas" class="img-fluid">
         <div class="mt-3">
           <span class="badge badge-danger p-2">Visite o Comunidade Amiga</span>
         </div>
